@@ -1,7 +1,10 @@
 # LAPORAN PRAKTIKUM 5
 Nama : Najla Wening Khairunnisa
+
 Nim : 312510225
+
 Kelas : TI.25.A2
+
 Pertemuan : 10
 
 # Program Input Nilai Mahasiswa (Dictionary)
